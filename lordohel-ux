@@ -1,0 +1,57 @@
+html>
+  <head>
+    <title>http//ohel.com</title>
+    <link rel="stylesheet" href="style3.css" />
+  </head>
+  <body class="CONTAINER">
+    <div>
+    <!--NAVIGATION BAR --!>
+    <div class="container-navbar">
+      <ul class="ul-navbar">
+        <li class="li-navbar">
+        <a href="#" class="a-navbar">HOME</a>
+        </li>
+        <li class="li-navbar">
+        <a href="about.html" class="a-navbar">ABOUT</a>
+        </li>
+        <li class="li-navbar">
+        <a href="contac.html" class="a-navbar">CONTAC</a>
+        </li>
+      </ul>
+    </div>
+    <!--NAVIGATION END --!>
+    
+    <!-- CONTEN 1 --!>
+    <div class="container-conten">
+    
+  <!-- LOGO YOUTUBE -->
+  <a href="https://www.youtube.com/" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+      alt="YouTube Logo" 
+      class="img-container" 
+      width="200"/>
+  </a>
+</div>
+
+    <div class="container-footer">
+      <h1 class="footer-1">hello my frends</h1>
+    </div>
+    <!-- FOOTER END --!>
+    </div>
+  </body>
+</html>
+<!--
+**lordohel-ux/lordohel-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
